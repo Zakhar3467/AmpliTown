@@ -1,3 +1,32 @@
-body{
-  background-color: red;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto',sans-serif;
+}
+a{
+  text-decoration: none;
+  color:  #0499ff;
+}
+.header {
+  min-height: 40px;
+  background-color: #000;
+  text-align: center;
+  padding: 10px;
+  font-weight: 600;
+}
+.menu{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-around;
+}
+.menu li{
+  padding: 10px;
+}
+.name{
+  display: block;
+  margin-right: auto;
+  color: white;
 }
