@@ -43,6 +43,10 @@ header {
 header img{
   border-radius: 50%;
   border: 2px solid #000;
+    transition: all 0.5s;
+}
+header img:hover{
+  transform: scale(1.1) rotate(5deg);
 }
 .tag{
   background-color: #fff;
@@ -73,4 +77,20 @@ header img{
 footer{
   text-align: center;
   padding: 60px;
+}
+.tag-list{
+  display: flex;
+  flex-flow: row;
+  list-style-type: none;
+  color: #fff;
+}
+.tag-yellow{
+  background-color: #ff9904;
+  margin-right: 7px;
+  margin-left: 7px;
+}
+.tag-blue{
+  background-color: #0399ff;
+  margin-right: 7px;
+  margin-left: 7px;
 }
