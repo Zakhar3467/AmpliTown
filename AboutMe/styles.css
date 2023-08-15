@@ -73,6 +73,11 @@ header img:hover{
 
   border-bottom: 3px solid  grey;
   border-radius: 5px;
+  transition: all 0.5s;
+}
+.card:hover{
+  transform: scale(1.1);
+  border-color: #0399ff;
 }
 footer{
   text-align: center;
