@@ -27,6 +27,7 @@ a{
 }
 .menu li{
   padding: 10px;
+  list-style: none;
 }
 .name{
   display: block;
