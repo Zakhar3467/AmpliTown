@@ -95,7 +95,7 @@ footer{
   font-size: 12px;
 }
 .tag-list{
-  
+  display: flex;
   flex-flow: row;
   list-style-type: none;
   color: #fff;
