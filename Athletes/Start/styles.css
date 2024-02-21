@@ -38,7 +38,7 @@ header {
   padding-top: 40px;
   width: 100%;
   height: 400px;
-  background-image: url('https://web-assets.al-enterprise.com/-/media/assets/internet/images/company-page-history-executive-homepage-header-l2-l3-1440x600-v3.jpg?v=1&d=20221104T112621Z');
+  background-image: url('https://media.gq.com/photos/59e76a0566e2d56abcd79e99/16:9/w_2992,h_1683,c_limit/GQ_50Greatest_final_v2.jpg');
   background-size: cover;
   text-align: center;
 }
@@ -51,7 +51,7 @@ header img:hover{
   transform: scale(1.1) rotate(5deg);
 }
 .tag{
-  background-color: #fff;
+  background-color: #FFEDDF;
   display: table;
   margin: 10px auto;
   padding: 10px;
