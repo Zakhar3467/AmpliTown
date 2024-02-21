@@ -79,7 +79,7 @@ header img:hover{
   transition: all 0.5s;
 }
 .card:hover{
-  transform: scale(1.1);
+  transform: scale(1.06);
   border-color: #0399ff;
 }
 .p1{
@@ -95,7 +95,7 @@ footer{
   font-size: 12px;
 }
 .tag-list{
-  display: flex;
+  
   flex-flow: row;
   list-style-type: none;
   color: #fff;
