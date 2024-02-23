@@ -38,7 +38,7 @@ header {
   padding-top: 40px;
   width: 100%;
   height: 400px;
-  background-image: url('https://media.gq.com/photos/59e76a0566e2d56abcd79e99/16:9/w_2992,h_1683,c_limit/GQ_50Greatest_final_v2.jpg');
+  background-image: url('https://media-s3-us-east-1.ceros.com/forbes/images/2023/05/16/90ed30b9f48f3536c4a626b76645cffb/16x9-top-athletes-main-lander-illustration-by-angelica-alzona.jpg');
   background-size: cover;
   text-align: center;
 }
@@ -109,4 +109,7 @@ footer{
   background-color: #0399ff;
   margin-right: 7px;
   margin-left: 7px;
+}
+.p4{
+  font-size: 8px;
 }
