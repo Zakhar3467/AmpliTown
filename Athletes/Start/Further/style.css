@@ -83,17 +83,6 @@ body {
 /* end main styling */
 
 /* begin footer styling */
-.primary-footer {
-  padding: 2px;
-  background-color: #FFC122;
-  text-align: center;
-}
-
-.created-by {
-  color: #FFFFFF;
-  font-size: 20px;
-}
-
 .button-34 {
   background: #5E5DF0;
   border-radius: 999px;
