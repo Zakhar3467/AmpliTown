@@ -1,7 +1,7 @@
 body {
   margin: 0; /* eliminates margin spacing on body so that the footer color is able to fill the window */
   /* Sets the background for the entire page to a light yellow color */
-  background-color: #FAF8DA;
+  background-color: #FFEDDF;
   font-family: 'Open Sans', sans-serif; /* Font from Google Fonts */
 }
 
@@ -80,9 +80,7 @@ body {
   color: #EA6E2F;
   font-size: 20px;
 }
-/* end main styling */
 
-/* begin footer styling */
 .button-34 {
   background: #5E5DF0;
   border-radius: 999px;
@@ -105,5 +103,5 @@ body {
   border: 0;
   text-decoration: none;
 }
-/* end footer styling */
+
 і HTML
