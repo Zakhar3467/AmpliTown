@@ -1,4 +1,4 @@
-@/* Essential */
+
 
 ul {
   display: table-row;
@@ -21,7 +21,7 @@ li::before {
 }
 
 
-/* Non-essential */
+
 
 html, body {
   width: 100%;
